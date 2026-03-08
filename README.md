@@ -1,9 +1,9 @@
 # Mapa Mental Química - Carnono(C)
 ---
 ## Tópicos:
-- Propriedades/Características do Carbono
-- Classificação de cadeias
-- Nomenclatura 
+- [Propriedades/Características do Carbono](https://github.com/nickfelisbelo/Quimica/tree/main?tab=readme-ov-file#propriedades)
+- [Classificação de cadeias](https://github.com/nickfelisbelo/Quimica/tree/main?tab=readme-ov-file#classifica%C3%A7%C3%A3o-de-cadeias)
+- [Nomenclatura](https://github.com/nickfelisbelo/Quimica/tree/main?tab=readme-ov-file#nomenclatura)
 - Função orgânica 
 - Ciclo do Carbono
 - Combustível
